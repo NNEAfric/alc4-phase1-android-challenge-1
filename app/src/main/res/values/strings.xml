@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ALC4</string>
+    <string name="txt_welcome">Welcome to ALC 4.0</string>
+    <string name="txt_about_alc_btn">About ALC</string>
+    <string name="txt_my_profile_btn">My Profile</string>
+    <string name="profile_image">Profile Image</string>
+</resources>
